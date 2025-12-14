@@ -84,7 +84,7 @@ npm run dev
 ## 🔗 Ссылки
 
 * **GitHub:** [https://github.com/username/mini-marketplace](https://github.com/username/mini-marketplace)
-* **Демо:** (при необходимости можно задеплоить на Vercel / Netlify)
+* **Демо:** (https://mini-marketplace3.vercel.app/)
 
 ---
 
